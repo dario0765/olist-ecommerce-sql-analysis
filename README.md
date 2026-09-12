@@ -37,37 +37,37 @@ Findings vary widely by category, e.g., the top health_beauty product alone gene
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](images\ER_diagram.png)
+![Entity Relationship Diagram](images/ER_diagram.png)
 
 Query Results
 
 Q1 — Top 10 Customers by Total Spend 
 
-![Q1](images\q1_top_customers.png)
+![Q1](images/q1_top_customers.png)
 
 Q2 — At-Risk Customers (5+ orders, inactive 90+ days) 
 
-![Q2](images\q2_at_risk_customers.png)
+![Q2](images/q2_at_risk_customers.png)
 
 Q3 — Month-over-Month Revenue Growth 
 
-![Q3](images\q3_monthly_revenue_growth.png)
+![Q3](images/q3_monthly_revenue_growth.png)
 
 Q4 — Top-Selling Product Categories 
 
-![Q4](images\q4_top_categories.png)
+![Q4](images/q4_top_categories.png)
 
 Q5 — Top Product per Category 
 
-![Q5](images\q5_top_product_per_category.png)
+![Q5](images/q5_top_product_per_category.png)
 
 Q6 — Revenue and Average Ticket by State 
 
-![Q6](images\q6_revenue_by_state.png)
+![Q6](images/q6_revenue_by_state.png)
 
 Q7 — Payment Method Breakdown
 
-![Q7](images\q7_payment_methods.png)
+![Q7](images/q7_payment_methods.png)
 
 
 
